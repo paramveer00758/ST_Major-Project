@@ -1,2 +1,42 @@
-# ST_Major-Project
-This is the summer training final /major project repo named "Emotion detection from text using nlp or sentiment analysis system"
+# Sentiment Analysis App
+
+This is a simple sentiment analysis project that detects emotions from text using NLP.  
+It uses a Streamlit interface and a sample dataset (`customer_sentiment.csv`) for demonstration.
+
+---
+
+## 📂 Project Structure
+sentimental_analysis/
+│── app.py                 # Main Streamlit app
+│── customer_sentiment.csv # Dataset file
+README.md                  # Documentation
+
+---
+
+## 🔧 Prerequisites
+- Make sure **Python 3.8+** is installed on your system.
+
+---
+
+## 📦 Installation
+
+Install the required packages by running:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn streamlit
+```
+▶️ Running the App
+Navigate into the project folder and run:
+
+```bash
+python -m streamlit run app.py
+```
+This will start a local server, and you can access the app in your browser at:
+`
+http://localhost:8501
+`
+🙌 Notes
+The dataset customer_sentiment.csv is included for testing.
+
+You can modify app.py to experiment with different models or preprocessing steps.
+Thanks...
