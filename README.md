@@ -46,9 +46,6 @@ You can modify app.py to experiment with different models or preprocessing steps
 
 # Project showcase--> 
 ## 🖼️ Project Interface Screenshot
-![Project Interface](<img width="734" height="938" alt="localhost_8501_" src="https://github.com/user-attachments/assets/fbd51e0f-d3ed-4fbf-963c-027d76dfa43b" />
-)
-
-
+![Project Interface](sentimental-analysis/project_interface.png)
 
 Thanks...
