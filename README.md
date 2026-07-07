@@ -7,9 +7,9 @@ It uses a Streamlit interface and a sample dataset (`customer_sentiment.csv`) fo
 
 ## 📂 Project Structure
 -->sentimental_analysis/
-  |
+  
   │__ app.py                 # Main Streamlit app
-  |
+  
   │__ customer_sentiment.csv # Dataset file
 
 -->README.md                  # Documentation
