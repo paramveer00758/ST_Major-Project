@@ -44,19 +44,11 @@ The dataset customer_sentiment.csv is included for testing.
 
 You can modify app.py to experiment with different models or preprocessing steps.
 
-# Emotion Detection from Text using NLP
+# Project showcase--> 
+## 🖼️ Project Interface Screenshot
+![Project Interface](<img width="734" height="938" alt="localhost_8501_" src="https://github.com/user-attachments/assets/fbd51e0f-d3ed-4fbf-963c-027d76dfa43b" />
+)
 
-## 📊 Model Interface
-![Model Interface](attachments/Azg1uRsiNmWzppva4sjyV.png)
-
-## 📈 Dataset Sentiment Counts
-![Dataset Sentiment Counts](attachments/egq8Jw5M9j8LPE8g6vtMg.png)
-
-## ✅ Confusion Matrix
-![Confusion Matrix](attachments/jSc31YtqgcoATdEZeu4JR.png)
-
-## 🗂️ Dataset Preview
-![Dataset Preview](attachments/cugTgsVy8Jjc1qaDHoi3p.png)
 
 
 Thanks...
