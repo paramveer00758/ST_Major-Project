@@ -41,10 +41,9 @@ Follow these steps to run the project locally:
    ```bash
    pip install -r requirements.txt
 Run the Application:
-Launch the Streamlit server:
-
-bash
-streamlit run app.py
+```bash
+python -m streamlit run app.py
+```
 Access the App:
-The app will automatically open in your default web browser (usually at http://localhost:8501).
+The app will automatically open in your default web browser (usually at ```http://localhost:8501```).
 Create a new account or log in to get started!
