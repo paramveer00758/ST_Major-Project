@@ -102,5 +102,5 @@ st.pyplot(fig2)
 st.markdown("---")
 
 # DATASET AUDIT VIEW
-st.subheader("⚙️ Dataset Preview (First 10 Rows)")
+st.subheader("⚙️ Dataset Preview (First 5 Rows)")
 st.dataframe(df[['review_text', 'Cleaned_Review', 'sentiment']].head(5))
